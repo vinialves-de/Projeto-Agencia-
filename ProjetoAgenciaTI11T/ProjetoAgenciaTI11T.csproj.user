@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaCadastrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaCadastrarPacote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaCadastrarVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaCadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaPesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaPesquisarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaPesquisarPacotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TelaPesquisarVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
